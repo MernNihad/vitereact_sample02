@@ -1,0 +1,45 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  color: #DFE1E4;
+}
+
+
+.header{
+  background-color: #0B1E33;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+.avatar{
+
+}
+.header-links ul{
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+}
+
+.section {
+  display: flex;
+  height: auto;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0px 100px;
+  gap: 20px;
+}
+.section-img{
+  width: 300px;
+}
+
+.imag{
+  width: 100%;
+  height: auto;
+}
+p{
+  color: black;
+}
